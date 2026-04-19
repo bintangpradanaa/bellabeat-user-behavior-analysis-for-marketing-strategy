@@ -9,8 +9,8 @@
 > For a more detailed explanation, please refer to the full analysis on my Medium.
 
 ### Resources
-- 📊 [View Full Analysis (Medium)](https://medium.com/@bintangpradanaa/optimizing-bellabeats-marketing-strategy-from-smart-device-usage-trends-d54638c7ad7d)  
-- 💻 [View R Code](https://github.com/bintangpradanaa/bellabeat-user-behavior-analysis-for-marketing-strategy/blob/main/bellabeat-code.R)
+- 📊 [Full Analysis (Medium)](https://medium.com/@bintangpradanaa/optimizing-bellabeats-marketing-strategy-from-smart-device-usage-trends-d54638c7ad7d)  
+- 💻 [R Code](https://github.com/bintangpradanaa/bellabeat-user-behavior-analysis-for-marketing-strategy/blob/main/bellabeat-code.R)
   
 ### Project Overview
 Bellabeat is a high-tech company that develops smart wellness devices designed to help women monitor activity, sleep, and overall health.
