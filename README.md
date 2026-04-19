@@ -1,9 +1,15 @@
 ## Bellabeat User Behavior Analysis for Marketing Strategy
+<p align="center">
+  <img src="images/bellabeat-pict.jpg" width="1000"/>
+</p>
+
+> 📌 **Note**  
+> This project is part of the Google Data Analytics Professional Certificate capstone, completed in July 2023.
+> The analysis follows the end-to-end data analysis process: ask, prepare, process, analyze, share, and act.  
+> For a more detailed explanation, please refer to the full analysis on my Medium.
 
 ### Project Overview
-
 Bellabeat is a high-tech company that develops smart wellness devices designed to help women monitor activity, sleep, and overall health.
-
 In this project, I worked as a Junior Data Analyst supporting the marketing team by analyzing smart device usage data to understand user behavior and generate insights for marketing strategy.
 
 🔗 [View Full Analysis](https://medium.com/@bintangpradanaa/optimizing-bellabeats-marketing-strategy-from-smart-device-usage-trends-d54638c7ad7d)
