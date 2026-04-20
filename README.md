@@ -9,7 +9,7 @@
 > For a more detailed explanation, please refer to the full analysis on my Medium.
 
 ## Resources
-- 📊 [Full Analysis (Medium)](https://medium.com/@bintangpradanaa/optimizing-bellabeats-marketing-strategy-from-smart-device-usage-trends-d54638c7ad7d)  
+- 📊 [Report](https://medium.com/@bintangpradanaa/optimizing-bellabeats-marketing-strategy-from-smart-device-usage-trends-d54638c7ad7d)  
 - 💻 [R Code](https://github.com/bintangpradanaa/bellabeat-user-behavior-analysis-for-marketing-strategy/blob/main/bellabeat-code.R)
   
 ## Project Overview
