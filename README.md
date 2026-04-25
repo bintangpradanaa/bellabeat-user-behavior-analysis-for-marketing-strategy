@@ -17,15 +17,9 @@ Bellabeat is a high-tech company that develops smart wellness devices designed t
 In this project, I worked as a Junior Data Analyst supporting the marketing team by analyzing smart device usage data to understand user behavior and generate insights for marketing strategy.
 
 ## Objective
-- Identify user behavior patterns from smart device data  
-- Understand the relationship between activity, sleep, and health metrics  
-- Provide actionable insights to support marketing decisions  
-
-## Approach
-- Data cleaning and preprocessing (handling missing values, data types, merging datasets)  
-- Feature engineering (e.g., day of week, hourly activity)  
-- Exploratory data analysis and trend analysis  
-- Correlation and behavioral analysis
+- Identify user behavior patterns from smart device data, including activity and sleep trends
+- Analyze the relationship between activity levels, sleep quality, and health metrics
+- Generate data-driven insights to support user engagement improvement and marketing strategy optimization
 
 ## Key Insights
 - Activity is mostly light, peaking on Saturdays and dropping on Sundays (weekend behavior shift)  
